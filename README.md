@@ -2,8 +2,8 @@
   <img width="200" src="https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" />
 </p>
 
-[![Build Status](https://travis-ci.org/andremartingo/node-rest-api-todo.svg?branch=master)](https://travis-ci.org/AFGM/node-rest-api-todo)
-[![Coverage Status](https://coveralls.io/repos/github/AFGM/node-rest-api-todo/badge.svg?branch=master)](https://coveralls.io/github/AFGM/node-rest-api-todo?branch=master)
+<!-- [![Build Status](https://travis-ci.org/andremartingo/node-rest-api-todo.svg?branch=master)](https://travis-ci.org/AFGM/node-rest-api-todo)
+[![Coverage Status](https://coveralls.io/repos/github/AFGM/node-rest-api-todo/badge.svg?branch=master)](https://coveralls.io/github/AFGM/node-rest-api-todo?branch=master) -->
 
 # Express REST API
 
