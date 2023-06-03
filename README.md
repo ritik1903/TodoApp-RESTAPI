@@ -8,8 +8,9 @@
 # Express REST API
 
 Todo REST API complete with user accounts and authentication.
-This api was the final challenge from [Udemy Course](https://www.udemy.com/the-complete-nodejs-developer-course-2/learn/v4/overview).<p>
-This was developed focus on [TDD](https://github.com/dwyl/learn-tdd).</p>
+ building a RESTful API for a Todo App using Node.js and implementing JWT (JSON Web Token)
+authentication. The API should allow users to create, read, update, and delete tasks, as well as authenticate and manage their
+tasks using JWT. 
 
 Demo : https://node-rest-api-todo.glitch.me
 
@@ -29,8 +30,8 @@ Demo : https://node-rest-api-todo.glitch.me
 ## Installation
 
 ```bash
-$ git clone git@github.com:AFGM/node-terminal-weather.git
-$ cd node-terminal-weather
+$ git clone git@github.com:AFGM/TodoApp-RESTAPI.git
+$ cd node-terminal-TodoApp
 $ npm install
 ```
 
